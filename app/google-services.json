@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495294037899",
+    "project_id": "appconnetinternet",
+    "storage_bucket": "appconnetinternet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495294037899:android:1cc553775e68ec7fd2b98e",
+        "android_client_info": {
+          "package_name": "com.example.connet_internet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495294037899-jkt26f3eel1kj6kv70jff99aa1v8j8qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADuxyvaUlfWZydo038jg_UzpJAsOtsqPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495294037899-jkt26f3eel1kj6kv70jff99aa1v8j8qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
